@@ -6,13 +6,11 @@ Hii I'm Hitesh choudhary, a passionate Data Analyst with a keen interest in extr
 
 🔍 With a solid foundation in statistical analysis, data visualization, and machine learning techniques, I specialize in uncovering patterns and trends that empower organizations to optimize their strategies and operations.
 
-🔭  I’m a life long learner, currently exploring more about Data Analytics!
+🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query, Tableau & MS Excel.
+
+🔭  I’m a life long learner, currently currently learning and exploring advanced techniques in Data Analyst.
 
 💻 Throughout my career, I've honed my skills in Python, R, SQL, and various data manipulation and visualization tools such as Pandas, NumPy, Matplotlib, Seaborn, and Tableau. From data wrangling to predictive modeling, I thrive on transforming raw data into actionable insights.
-
-🌱 I’m currently learning and exploring advanced techniques in Data Analyst.
-
-🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query, Tableau & MS Excel.
 
 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
 
