@@ -16,9 +16,12 @@ Hii I'm Hitesh choudhary, a passionate Data Analyst with a keen interest in extr
 
 📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
 
-👯 I’m looking to collaborate on projects related to machine learning, Analysis and open to work for an organization
+👯 I’m looking to collaborate on projects related to machine learning, Analysis and open to work for an organization.
+
 📫 How to reach me: Feel free to reach out to me via email at hiteshchoudhary7980@gmail.com 
+
 ⭐connect with me on LinkedIn https://www.linkedin.com/in/hitesh-choudhary-9020/
+
 ⚡ Fun fact: I love experimenting with different analytical tools and creating mini projects in my spare time.
 
 
