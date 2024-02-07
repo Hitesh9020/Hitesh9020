@@ -1,5 +1,6 @@
 Hello There!!
 
+**Hii I'm Hitesh Choudhary**
 🔭 I’m currently working on enhancing my coding skills and contributing to open-source projects that interest me.
 
 🌱 I’m currently learning new programming languages and exploring advanced techniques in software development.
