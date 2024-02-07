@@ -17,6 +17,8 @@ Hello There!!
 
 👯 I’m looking to collaborate on projects related to machine learning, Analysis and open to work for an organization.
 
+✅ Feel free to explore my overview of projects - https://www.datascienceportfol.io/Hitesh_Choudhary
+
 📫 How to reach me: Feel free to reach out to me via email at hiteshchoudhary7980@gmail.com 
 
 ⭐connect with me on LinkedIn https://www.linkedin.com/in/hitesh-choudhary-9020/
