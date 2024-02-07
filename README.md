@@ -1,6 +1,7 @@
 Hello There!!
 
-# Hii I'm Hitesh choudhary, a passionate Data Analyst with a keen interest in extracting insights from complex datasets to drive informed decision-making.
+                                                      # Hii I'm Hitesh choudhary, 
+### a passionate Data Analyst with a keen interest in extracting insights from complex datasets to drive informed decision-making.
 
 🎓 I hold a degree in Computer Science and Engineering and have gained valuable experience through hands-on projects and collaborations across various industries, Whether it's analyzing customer behavior, forecasting market trends, or optimizing business processes, I'm dedicated to leveraging data-driven approaches to drive positive outcomes.
 
