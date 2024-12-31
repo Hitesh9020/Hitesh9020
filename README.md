@@ -1,5 +1,4 @@
-# ![image](https://github.com/user-attachments/assets/f75df38c-7af7-4efc-be98-e626db684ca3)
- Hitesh Choudhary
+# Hitesh Choudhary
 **`Data Analyst at Zepto, Control Tower`**
 
 I'm an Analytics professional and problem solver, crafting data-driven solutions one project at a time. Whether it's SQL, Power BI, or Python, I build analytics solutions from the ground up starting with planning, followed by implementation, and optimizing processes to improve efficiency. Every project I take on aims to simplify workflows and deliver actionable insights, helping businesses make smarter, data-backed decisions.
