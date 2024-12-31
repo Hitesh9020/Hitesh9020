@@ -1,28 +1,31 @@
-Hello There!!
+# 🏄‍♂️ Hitesh Choudhary
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-#                                                       Hii I'm Hitesh choudhary, 
-### A passionate Data Analyst with a keen interest in extracting insights from complex datasets to drive informed decision-making.
+I'm an Analytics professional and problem solver, crafting data-driven solutions one project at a time. Whether it's SQL, Power BI, or Python, I build analytics solutions from the ground up—starting with planning, followed by implementation, and optimizing processes to improve efficiency. Every project I take on aims to simplify workflows and deliver actionable insights, helping businesses make smarter, data-backed decisions.
 
-🎓 I hold a degree in Computer Science and Engineering and have gained valuable experience through hands-on projects and collaborations across various industries, Whether it's analyzing customer behavior, forecasting market trends, or optimizing business processes, I'm dedicated to leveraging data-driven approaches to drive positive outcomes.
+### 🧰 Languages and Tools
 
-🔍 With a solid foundation in statistical analysis, data visualization, and machine learning techniques, I specialize in uncovering patterns and trends that empower organizations to optimize their strategies and operations.
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br />
 
-🧰 My analytics toolbox contains SQL, Python, Power BI, DAX, Power Query, Tableau & MS Excel.
+#
 
-🔭  I’m a life long learner, currently currently learning and exploring advanced techniques in Data Analyst.
+### 📺 Latest Projects 
 
-💻 Throughout my career, I've honed my skills in Python, R, SQL, and various data manipulation and visualization tools such as Pandas, NumPy, Matplotlib, Seaborn, and Tableau. From data wrangling to predictive modeling, I thrive on transforming raw data into actionable insights.
+<!-- BEGIN YOUTUBE-CARDS -->
+[![My Experience with Rust as a Java Dev](https://ytcards.demolab.com/?id=a0LtFp-7T2s&title=My+Experience+with+Rust+as+a+Java+Dev&lang=en&timestamp=1735398001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1183 "My Experience with Rust as a Java Dev")](https://www.youtube.com/watch?v=a0LtFp-7T2s)
+[![Everything You NEED to Know about Docker](https://ytcards.demolab.com/?id=oUnWU4Y4kSY&title=Everything+You+NEED+to+Know+about+Docker&lang=en&timestamp=1734102064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1106 "Everything You NEED to Know about Docker")](https://www.youtube.com/watch?v=oUnWU4Y4kSY)
+[![7 Design Patterns EVERY Developer Should Know](https://ytcards.demolab.com/?id=BJatgOiiht4&title=7+Design+Patterns+EVERY+Developer+Should+Know&lang=en&timestamp=1733497212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1389 "7 Design Patterns EVERY Developer Should Know")](https://www.youtube.com/watch?v=BJatgOiiht4)
+[![Why I’m Learning Rust in 2024 (and new dev environment)](https://ytcards.demolab.com/?id=3q3OXiyUQk4&title=Why+I%E2%80%99m+Learning+Rust+in+2024+%28and+new+dev+environment%29&lang=en&timestamp=1732550404&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1013 "Why I’m Learning Rust in 2024 (and new dev environment)")](https://www.youtube.com/watch?v=3q3OXiyUQk4)
+[![This is Why You Don't Roll Your Own Auth](https://ytcards.demolab.com/?id=VA2RS9WN9us&title=This+is+Why+You+Don%27t+Roll+Your+Own+Auth&lang=en&timestamp=1732287637&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=981 "This is Why You Don't Roll Your Own Auth")](https://www.youtube.com/watch?v=VA2RS9WN9us)
+[![3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)](https://ytcards.demolab.com/?id=zX4u3SudI-0&title=3+Coding+Projects+to+Break+the+Coding+Barrier+%28w%2F+Instructions+Included%29&lang=en&timestamp=1730728856&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "3 Coding Projects to Break the Coding Barrier (w/ Instructions Included)")](https://www.youtube.com/watch?v=zX4u3SudI-0)
+<!-- END YOUTUBE-CARDS -->
 
-📚 Specialized in data collection, data cleaning, data analysis, and data visualization.
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
-👯 I’m looking to collaborate on projects related to machine learning, Analysis and open to work for an organization.
+#
 
-✅ Feel free to explore my overview of projects - https://www.datascienceportfol.io/Hitesh_Choudhary
+### 📊 Stats
 
-📫 How to reach me: Feel free to reach out to me via email at hiteshchoudhary7980@gmail.com 
-
-⭐connect with me on LinkedIn https://www.linkedin.com/in/hitesh-choudhary-9020/
-
-⚡ Fun fact: I love experimenting with different analytical tools and creating mini projects in my spare time.
-
-
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
