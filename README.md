@@ -6,11 +6,9 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.secoda.co%2Flearn-topics%2Fsql&psig=AOvVaw3ruwaREvQq7dsGUZ7jrFZv&ust=1735841970846000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjn6bGR1YoDFQAAAAAdAAAAABAE)" />
 <br />
-Pyhon
 
-
-#
 
 ### 📺 Latest Projects 
+
