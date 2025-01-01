@@ -13,7 +13,6 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 <img align="left" alt="Microsoft Tools" width="70px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Microsoft-Excel/blob/main/Microsoft%20Tools%20Icon.png" />
 <img align="left" alt="Ad Hoc Analysis" width="60px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Events/blob/main/Ad%20hoc%20Analysis%20%26%20Reporting.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 <br />
 
