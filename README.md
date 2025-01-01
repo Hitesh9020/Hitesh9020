@@ -21,17 +21,8 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 ### 📺 Latest Projects 
 
 
-
-
-
-
-
-
-
-
-
-
-
+<!-- BEGIN YOUTUBE-CARDS -->
+[![My Experience with Rust as a Java Dev](https://ytcards.demolab.com/?id=a0LtFp-7T2s&title=My+Experience+with+Rust+as+a+Java+Dev&lang=en&timestamp=1735398001&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1183 "My Experience with Rust as a Java Dev")](https://www.youtube.com/watch?v=a0LtFp-7T2s)
 
 ### Want to connect wih me ?
 
@@ -43,6 +34,7 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 
 [<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/X%20Icon.png"/>](https://x.com/Hitesh_7980) 
 <br />
+
 
 Feel Free to Connect with me!
 
