@@ -12,7 +12,3 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 #
 
 ### 📺 Latest Projects 
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
