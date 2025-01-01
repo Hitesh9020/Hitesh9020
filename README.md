@@ -37,10 +37,12 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 
 [<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/Email.png"/>](https://mail.google.com/mail/u/0/#inbox=1)  
 
-[<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/Instagram.jpeg"/>](https://mail.google.com/mail/u/0/#inbox=1)  
+[<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/Instagram.jpeg"/>](https://www.instagram.com/hitesh79.80/)  
 
-[<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/Email.png"/>](https://mail.google.com/mail/u/0/#inbox=1)  
+[<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/Linkedln.png"/>](https://www.linkedin.com/in/hitesh-choudhary-9020/)  
 
+[<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/X%20Icon.png"/>](https://x.com/Hitesh_7980) 
+<br />
 
 Feel Free to Connect with me!
 
