@@ -20,3 +20,22 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 
 ### 📺 Latest Projects 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Want to connect wih me ?
+
+
+
+Feel Free to Connect with me!
+
