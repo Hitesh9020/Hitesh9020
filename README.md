@@ -20,23 +20,24 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 ### 📺 Latest Projects 
 
 <div align="center">
-  <!-- First Row of Cards -->
-  <div style="display: flex; justify-content: space-between; gap: 20px;">
-    <!-- Card 1 -->
+  <!-- Wrapper for two rows -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
+    <!-- First Row of Cards -->
+    <!-- Card 1 (Left) -->
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
       <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
         <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
       </a>
       <p><strong>Christmas Sales Analysis</strong></p>
     </div>
-   <!-- Card 2 -->
+    <!-- Card 2 (Center) -->
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
       <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
         <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
       </a>
       <p><strong>Christmas Sales Analysis</strong></p>
     </div>
-    <!-- Card 3 -->
+    <!-- Card 3 (Right) -->
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
       <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
         <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
@@ -47,22 +48,22 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
   </div>
 
   <!-- Second Row of Cards -->
-  <div style="display: flex; justify-content: space-between; gap: 20px; margin-top: 20px;">
-    <!-- Card 4 -->
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 20px;">
+    <!-- Card 4 (Left) -->
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
       <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
         <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
       </a>
       <p><strong>Christmas Sales Analysis</strong></p>
     </div>
-    <!-- Card 5 -->
+    <!-- Card 5 (Center) -->
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
       <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
         <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
       </a>
       <p><strong>Christmas Sales Analysis</strong></p>
     </div>
-    <!-- Card 6 -->
+    <!-- Card 6 (Right) -->
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
       <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
         <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
