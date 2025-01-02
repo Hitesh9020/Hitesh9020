@@ -22,24 +22,24 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 <div align="center">
 
   <!-- First Row -->
-  <table style="border: 0; width: 100%;">
+  <table style="border: none; width: 100%; border-spacing: 0; border-collapse: collapse;">
     <tr>
       <!-- Left Card -->
-      <td style="text-align: left; padding: 10px; border: 0;">
+      <td style="text-align: left; padding: 10px; border: none;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250"/>
         </a>
         <p><strong>Christmas Sales Analysis</strong></p>
       </td>
       <!-- Center Card -->
-      <td style="text-align: center; padding: 10px; border: 0;">
+      <td style="text-align: center; padding: 10px; border: none;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250"/>
         </a>
         <p><strong>Christmas Sales Analysis</strong></p>
       </td>
       <!-- Right Card -->
-      <td style="text-align: right; padding: 10px; border: 0;">
+      <td style="text-align: right; padding: 10px; border: none;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250"/>
         </a>
@@ -49,24 +49,24 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
   </table>
 
   <!-- Second Row -->
-  <table style="border: 0; width: 100%;">
+  <table style="border: none; width: 100%; border-spacing: 0; border-collapse: collapse;">
     <tr>
       <!-- Left Card -->
-      <td style="text-align: left; padding: 10px; border: 0;">
+      <td style="text-align: left; padding: 10px; border: none;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250"/>
         </a>
         <p><strong>Christmas Sales Analysis</strong></p>
       </td>
       <!-- Center Card -->
-      <td style="text-align: center; padding: 10px; border: 0;">
+      <td style="text-align: center; padding: 10px; border: none;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250"/>
         </a>
         <p><strong>Christmas Sales Analysis</strong></p>
       </td>
       <!-- Right Card -->
-      <td style="text-align: right; padding: 10px; border: 0;">
+      <td style="text-align: right; padding: 10px; border: none;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250"/>
         </a>
