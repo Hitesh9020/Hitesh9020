@@ -19,56 +19,61 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 
 ### 📺 Latest Projects 
 
-<div align="left">
-  <!-- Wrapper for two rows -->
-  <div style="display: flex; justify-content: space-between; gap: 20px;">
-    <!-- First Row of Cards -->
-    <!-- Card 1 (Left) -->
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-      <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
-        <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
-      </a>
-      <p><strong>Christmas Sales Analysis</strong></p>
-    <!-- Card 2 (Center) -->
-    <div align="center">
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-      <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
-        <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
-      </a>
-      <p><strong>Christmas Sales Analysis</strong></p>
-   <div align="right">
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-      <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
-        <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
-      </a>
-      <p><strong>Christmas Sales Analysis</strong></p>
-    </div>
+<div align="center">
 
-  </div>
-  <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 20px;">
-    <!-- Card 4 (Left) -->
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-      <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
-        <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
-      </a>
-      <p><strong>Christmas Sales Analysis</strong></p>
-    </div>
-    <!-- Card 5 (Center) -->
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-      <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
-        <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
-      </a>
-      <p><strong>Christmas Sales Analysis</strong></p>
-    </div>
-    <!-- Card 6 (Right) -->
-    <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
-      <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
-        <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
-      </a>
-      <p><strong>Christmas Sales Analysis</strong></p>
-    </div>
+  <!-- First Row -->
+  <table>
+    <tr>
+      <!-- Left Card -->
+      <td style="text-align: left; padding: 10px;">
+        <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
+          <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
+        </a>
+        <p><strong>Christmas Sales Analysis</strong></p>
+      </td>
+      <!-- Center Card -->
+      <td style="text-align: center; padding: 10px;">
+        <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
+          <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
+        </a>
+        <p><strong>Christmas Sales Analysis</strong></p>
+      </td>
+      <!-- Right Card -->
+      <td style="text-align: right; padding: 10px;">
+        <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
+          <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
+        </a>
+        <p><strong>Christmas Sales Analysis</strong></p>
+      </td>
+    </tr>
+  </table>
+  <!-- Second Row -->
+  <table>
+    <tr>
+      <!-- Left Card -->
+      <td style="text-align: left; padding: 10px;">
+        <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
+          <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
+        </a>
+        <p><strong>Christmas Sales Analysis</strong></p>
+      </td>
+      <!-- Center Card -->
+      <td style="text-align: center; padding: 10px;">
+        <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
+          <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
+        </a>
+        <p><strong>Christmas Sales Analysis</strong></p>
+      </td>
+      <!-- Right Card -->
+      <td style="text-align: right; padding: 10px;">
+        <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
+          <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
+        </a>
+        <p><strong>Christmas Sales Analysis</strong></p>
+      </td>
+    </tr>
+  </table>
 
-  </div>
 </div>
 
 
