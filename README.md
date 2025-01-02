@@ -23,6 +23,17 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Christmas Sales Analysis](https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png)](https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis)
 
+[![Christmas Sales Analysis](https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png)](https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis)
+
+[![Christmas Sales Analysis](https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png)](https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis)
+
+[![Christmas Sales Analysis](https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png)](https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis)
+
+[![Christmas Sales Analysis](https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png)](https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis)
+
+[![Christmas Sales Analysis](https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png)](https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis)
+
+
 ### Want to connect wih me ?
 
 [<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/Email.png"/>](https://mail.google.com/mail/u/0/#inbox=1)  
