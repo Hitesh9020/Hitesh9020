@@ -46,8 +46,6 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
     </div>
 
   </div>
-
-  <!-- Second Row of Cards -->
   <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 20px;">
     <!-- Card 4 (Left) -->
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
