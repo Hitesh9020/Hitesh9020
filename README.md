@@ -77,6 +77,10 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 
 </div>
 
+### 🏅 Certifications
+- **Microsoft Certified: Data Analyst Associate**
+- **Power BI for Data Science** - Coursera
+- **SQL for Data Science** - Coursera
 
 ### Want to connect wih me ?
 
@@ -89,10 +93,6 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 [<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/X%20Icon.png"/>](https://x.com/Hitesh_7980) 
 <br />
 
-
-- Email: [hiteshchoudhary7980@gmail.com](mailto:hiteshchoudhary7980@gmail.com)
-- LinkedIn: [Hitesh Choudhary](https://www.linkedin.com/in/hitesh-choudhary-9020/)
-- Twitter: [@Hitesh_7980](https://x.com/Hitesh_7980)
 
 
 Feel Free to Connect with me!
