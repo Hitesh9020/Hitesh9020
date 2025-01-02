@@ -21,7 +21,7 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![My Experience with Rust as a Java Dev](https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png)](https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis)
+[![Christmas Sales Analysis](https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png)](https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis)
 
 ### Want to connect wih me ?
 
