@@ -29,7 +29,6 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
         <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
       </a>
       <p><strong>Christmas Sales Analysis</strong></p>
-    </div>
     <!-- Card 2 (Center) -->
     <div align="center">
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
@@ -37,7 +36,6 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
         <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="200"/>
       </a>
       <p><strong>Christmas Sales Analysis</strong></p>
-    </div>
    <div align="right">
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
       <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
