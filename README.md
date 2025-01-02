@@ -95,9 +95,8 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 [<img  align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/Hitesh9020/Research_Work/blob/main/X%20Icon.png"/>](https://x.com/Hitesh_7980) 
 <br />
 
-
-
+<!-- Right Card -->
  <!-- Right Card -->
-
+  <!-- Right Card -->
 Feel Free to Connect with me!
 
