@@ -29,21 +29,21 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250" style="border: none;"/>
         </a>
-        <p style="text-align: center; margin-top: 10px;"><strong>Christmas Sales Analysis</strong></p>
+        <p style="margin-top: 10px; text-align: center; font-weight: bold;">Christmas Sales Analysis</p>
       </td>
       <!-- Center Card -->
       <td style="text-align: center; padding: 10px; border: none; vertical-align: middle;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250" style="border: none;"/>
         </a>
-        <p style="text-align: center; margin-top: 10px;"><strong>Christmas Sales Analysis</strong></p>
+        <p style="margin-top: 10px; text-align: center; font-weight: bold;">Christmas Sales Analysis</p>
       </td>
       <!-- Right Card -->
       <td style="text-align: center; padding: 10px; border: none; vertical-align: middle;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250" style="border: none;"/>
         </a>
-        <p style="text-align: center; margin-top: 10px;"><strong>Christmas Sales Analysis</strong></p>
+        <p style="margin-top: 10px; text-align: center; font-weight: bold;">Christmas Sales Analysis</p>
       </td>
     </tr>
   </table>
@@ -56,21 +56,21 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250" style="border: none;"/>
         </a>
-        <p style="text-align: center; margin-top: 10px;"><strong>Christmas Sales Analysis</strong></p>
+        <p style="margin-top: 10px; text-align: center; font-weight: bold;">Christmas Sales Analysis</p>
       </td>
       <!-- Center Card -->
       <td style="text-align: center; padding: 10px; border: none; vertical-align: middle;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250" style="border: none;"/>
         </a>
-        <p style="text-align: center; margin-top: 10px;"><strong>Christmas Sales Analysis</strong></p>
+        <p style="margin-top: 10px; text-align: center; font-weight: bold;">Christmas Sales Analysis</p>
       </td>
       <!-- Right Card -->
       <td style="text-align: center; padding: 10px; border: none; vertical-align: middle;">
         <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
           <img src="https://github.com/Hitesh9020/Microsoft-Power-BI/blob/main/Christmas%20Sales%20Analysis/Christmas%20Sales%20Analysis%20Page.png" alt="Christmas Sales Analysis" width="250" style="border: none;"/>
         </a>
-        <p style="text-align: center; margin-top: 10px;"><strong>Christmas Sales Analysis</strong></p>
+        <p style="margin-top: 10px; text-align: center; font-weight: bold;">Christmas Sales Analysis</p>
       </td>
     </tr>
   </table>
