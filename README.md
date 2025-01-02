@@ -78,9 +78,11 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 </div>
 
 ### 🏅 Certifications
-- **Microsoft Certified: Data Analyst Associate**
-- **Power BI for Data Science** - Coursera
-- **SQL for Data Science** - Coursera
+- **Google Cloud Computing Foundations** by NPTEL
+- **Six Sigma: Green Belt** by Linkedln Learning
+- **SQL for Data Analysis** by Great Learning
+- **Advanced Power BI Dax Language Formulas and Calculations** by Linkedln Learning
+- **Root Cause Analysis: Getting to the Root of the Business Problems** by Linkedln Learning
 
 ### Want to connect wih me ?
 
