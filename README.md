@@ -78,11 +78,11 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 </div>
 
 ### 🏅 Certifications
-- **Google Cloud Computing Foundations** by NPTEL
-- **Six Sigma: Green Belt** by Linkedln Learning
-- **SQL for Data Analysis** by Great Learning
-- **Advanced Power BI Dax Language Formulas and Calculations** by Linkedln Learning
-- **Root Cause Analysis: Getting to the Root of the Business Problems** by Linkedln Learning
+- **[Google Cloud Computing Foundations](https://www.nptel.ac.in/courses/106/106/106106122/)** by NPTEL
+- **[Six Sigma: Green Belt](https://www.linkedin.com/learning/six-sigma-green-belt-2)** by LinkedIn Learning
+- **[SQL for Data Analysis](https://www.greatlearning.in/academy/learn-for-free/courses/sql-for-data-analysis)** by Great Learning
+- **[Advanced Power BI DAX Language Formulas and Calculations](https://www.linkedin.com/learning/advanced-power-bi-dax-language-formulas-and-calculations)** by LinkedIn Learning
+- **[Root Cause Analysis: Getting to the Root of the Business Problems](https://www.linkedin.com/learning/root-cause-analysis-getting-to-the-root-of-the-business-problems)** by LinkedIn Learning
 
 ### Want to connect wih me ?
 
