@@ -21,7 +21,7 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 
 <div align="left">
   <!-- Wrapper for two rows -->
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <!-- Card 1 -->
     <div style="width: 250px; text-align: center; border: 1px solid #ddd; border-radius: 8px; padding: 10px;">
       <a href="https://github.com/Hitesh9020/Microsoft-Power-BI/tree/main/Christmas%20Sales%20Analysis">
