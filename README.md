@@ -90,5 +90,10 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
 <br />
 
 
+- Email: [hiteshchoudhary7980@gmail.com](mailto:hiteshchoudhary7980@gmail.com)
+- LinkedIn: [Hitesh Choudhary](https://www.linkedin.com/in/hitesh-choudhary-9020/)
+- Twitter: [@Hitesh_7980](https://x.com/Hitesh_7980)
+
+
 Feel Free to Connect with me!
 
