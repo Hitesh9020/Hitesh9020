@@ -36,7 +36,7 @@ I'm an Analytics professional and problem solver, crafting data-driven solutions
         <a href="https://github.com/Hitesh9020/Indian_Demographics_Affecting_Indian_Economics">
           <img src="https://github.com/Hitesh9020/Indian_Demographics_Affecting_Indian_Economics/blob/main/Indian_Demographics.jpg" alt="Indian Demographics ...." width="250" style="border: none;"/>
         </a>
-        <p style="margin-top: 10px; text-align: center; font-weight: bold;">Christmas Sales Analysis</p>
+        <p style="margin-top: 10px; text-align: center; font-weight: bold;">Indian Demographics Af...</p>
       </td>
       <!-- Right Card -->
       <td style="text-align: center; padding: 10px; border: none; vertical-align: middle;">
